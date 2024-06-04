@@ -1,15 +1,14 @@
 # Assignment Youtube Clone
 
 ## Introduction
-This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The goal of this project is to recreate the basic functionality and design of the popular video-sharing platform YouTube. This clone will allow users to view videos, search for videos, and interact with the user interface.
+This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The goal of this project is to recreate the basic functionality and design of the popular video-sharing platform YouTube and also this is my Assignment. This clone will allow users to view videos, search for videos, and interact with the user interface.
 
 ## Features
 - Display video information (title, description, uploader, views, likes, etc.)
 - Responsive design for various devices
 
-Website Link: 
+Website Link: https://netserv.in/youtube-clone
 ## Demo Video:
-
 
 ## ScreenShot:
 1.Landing Page:
@@ -21,8 +20,11 @@ Website Link:
 - CSS: For styling the web pages and making them visually appealing.
 - JavaScript: For adding interactivity and functionality to the website.
 
-
-
+## Import in Local Machine:
+1. Clone to your local machine by running the given command : https://github.com/shashank-netserv/youtube-clone.git
+   OR
+2. Download the ZIP to your local machine and UNZIP than open the index.html to your web browser.
+   
 ## Usage
 1. Open the `index.html` file in your web browser.
 2. The homepage will display a list of videos from the YouTube Data API.
@@ -37,5 +39,5 @@ You may need to obtain a YouTube Data API key to fetch real video data. Follow t
 4. Replace the `YOUR_API_KEY` placeholder in the JavaScript file with your actual API key.
 
 ## Conclusion
-This Projecct is assignment i try to complete within a timeline of given 4 hrs.
+This Projecct is my assignment and i try to complete within a timeline of given 4 hrs.
 
